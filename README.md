@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajat5972
+- 👋 Hi, I’m Rajat
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning R and R shiny
 - 💞️ I’m looking to collaborate on R Dashboards
