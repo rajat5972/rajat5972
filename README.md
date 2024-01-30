@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajat
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning R and R shiny
+- 👀 I’m interested and currently working on topics involving PCA, Decision trees and Time series data.
+- 🌱 I’m currently learning R and R shiny.
 - 💞️ I’m looking to collaborate on R Dashboards
 - 📫 You can Reach me at singhrajat@iitgn.ac.in
 
